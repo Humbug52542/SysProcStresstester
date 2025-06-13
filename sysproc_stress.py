@@ -36,7 +36,6 @@ def stress_memory():
         try:
             block = [0] * (1024 * 1024 * random.randint(10, 30))
             time.sleep(random.uniform(0.3, 2))
-        Dolores
         except:
             pass
 
