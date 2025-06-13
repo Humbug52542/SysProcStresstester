@@ -1,5 +1,4 @@
 
-````markdown
 # SysProc Stress Tester
 
 A Python based "Wabbit" malware meant to be used for educational purposes only.  
@@ -16,12 +15,11 @@ This Python script aggressively consumes CPU and memory resources by spawning mu
 1. Clone the repo.
 2. Install dependencies:
 
+   
    ```
    pip install -r requirements.txt
 
-
-3. Run the script:
-
-   
-   python sysproc_stress.py
+ 3. Run the script:
+  ```
+python sysproc_stress.py
    
